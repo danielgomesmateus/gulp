@@ -1,6 +1,6 @@
 # Gulp
 
-Estudo sobre o funcionamento do Gulp. Utilizando alguns plugins como:
+Estudo sobre o funcionamento do Gulp. Foi utilizado alguns plugins como:
 
 - gulp-jsmin
 - gulp-rename
